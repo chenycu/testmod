@@ -2,7 +2,8 @@ package testmod
 
 import "fmt"
 
-// Hi ·µ»ØÒ»¸öÓÑºÃµÄÎÊºò
+// Hi æˆ‘å“ˆå“ˆå“ˆ
 func Hi(name string) string {
-   return fmt.Sprintf("Hi, %s", name)
+	fmt.Println("æˆ‘æ˜¯masterä¿®æ”¹çš„")
+	return fmt.Sprintf("Hi, %s", name)
 }
