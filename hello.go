@@ -2,7 +2,7 @@ package testmod
 
 import "fmt"
 
-// Hi 返回一个友好的问候
+// Hi 鎴戠殑娴嬭瘯妯″潡
 func Hi(name string) string {
-   return fmt.Sprintf("Hi, %s", name)
+	return fmt.Sprintf("Hi, %s", name)
 }
